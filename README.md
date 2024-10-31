@@ -1,3 +1,4 @@
+LIVE DEMO HERE: https://wild-oasis-sand.vercel.app/
 Wild Oasis is hotel management application designed specifically for hotel staff. The app provides employees with tools to manage bookings, check-ins, check-outs and monitor occupancy rates. Only authorized hotel employees have access to the app and create other users. App is built using React and libraries like React Error Boundary, React Hook Form, React Hot Toast, React Icons, React Router and ReCharts. Styling is handled using styled-components library and backend is powered by Supabase.
 
 # React + TypeScript + Vite
